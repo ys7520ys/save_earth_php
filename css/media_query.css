@@ -1,0 +1,36 @@
+@media (max-width: 1300px) {
+  .firstSection{
+    height: 100vh;
+    border: solid 1px red;
+  }
+
+
+  .firstSection h2.section-title{
+    text-align: center;
+    font-weight: 500;
+    font-size: 30px;
+    margin-bottom: 18px;
+    color: #333;
+  }
+  .firstSection h3.section-subtitle{
+    text-align: center;
+    font-weight: 400;
+    font-size: 22px;
+    color: #333;
+  }
+  .firstSection>div{
+    width: 100%;
+    margin-top: 70px;
+    display: block;
+  }
+  .firstSection .img_box{
+    position: relative;
+    width: 100%;
+    height: 300px;
+    box-sizing: border-box;
+    overflow: hidden;
+  }
+
+
+
+}
